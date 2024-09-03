@@ -49,6 +49,8 @@ OUT 42h, AL
 
 This example is far more abstracted from natural language, representing specific instructions that directly interact with the computer's hardware.
 
+Don't worry if you cannot understand the code, I myself am not very fond of this programming language 😄.
+
 ### 4. **Machine Code (Binary)**
 
 Beneath assembly language lies **machine code**, the lowest level of software. Machine code is the actual set of instructions that the computer’s processor executes, and it’s written in **binary**- a series of 0s and 1s. Here's what that might look like:
@@ -58,6 +60,8 @@ Beneath assembly language lies **machine code**, the lowest level of software. M
 ```
 
 This binary code is completely unintelligible to humans, but it’s what the computer "reads" and acts upon.
+
+All lines of code are represented at the lowest level as sequences of 0s and 1s. But it’s not just code- any kind of digital file, whether it’s an image, a GIF, a song, or anything else, is ultimately represented by binary numbers. In essence, everything in the digital world can be broken down into a series of 0s and 1s!
 
 ### 5. **Electronic Signals (Hardware)**
 
