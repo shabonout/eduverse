@@ -1,5 +1,5 @@
 # 🌐 Eduverse: Your Gateway to the Tech World 🚀
-Learning should be accessible, easy, and fun. That's why I started Eduverse—to help those who are young and just beginning their journey in software, those looking for a career shift, or anyone genuinely interested in diving deeper into the tech world.
+Learning should be accessible, easy, and fun. That's why I started Eduverse - to help those who are young and just beginning their journey in software, those looking for a career shift, or anyone genuinely interested in diving deeper into the tech world.
 
 With Eduverse I offer tutorials, guides, and educational material on software engineering, cloud computing, AI, and more.
 <br>
