@@ -65,8 +65,8 @@ All lines of code are represented at the lowest level as sequences of 0s and 1s.
 
 The sequence `10110000 01100001` could take on different meanings depending on how it's interpreted:
 
-- **Numerical Value:** It could represent a number, such as `45,281` in decimal.
-- **ASCII Characters:** It could be interpreted as the characters `°a`.
+- **Numerical Value:** It could represent a number, such as `45` and `281` in decimal.
+- **ASCII Characters:** It could be interpreted as the characters `°` and `a`.
 - **Machine Instructions:** It might correspond to a specific instruction in assembly language.
 - **Pixel Data:** It could represent color information in an image.
 
